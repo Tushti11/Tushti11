@@ -8,12 +8,19 @@
 
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tushtigupta11?theme=dark&font=Abel)
+## 📊 GitHub Stats  
+
+![Tushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushti11&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushti11&layout=compact&theme=radical)
+
 
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/tushti-gupta-aa761323b/)
-- [GitHub](https://github.com/tushti11/)
-
+- [GitHub](https://github.com/Tushti11/)
+- [email] : tushtigupta2006@gmail.com
+- 
 
 <!--
 **Tushti11/Tushti11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
